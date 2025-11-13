@@ -7,3 +7,5 @@
 * License [![LICENSE](https://img.shields.io/github/license/chad1791/DevOps01.svg?style=flat-square)](https://github.com/chad1791/DevOps01/blob/master/LICENSE)
 
 * Release [![Releases](https://img.shields.io/github/release/chad1791/DevOps01/all.svg?style=flat-square)](https://github.com/chad1791/DevOps01/releases)
+
+new text was added
